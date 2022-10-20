@@ -1,5 +1,7 @@
 # mini-calculator
 
+https://chen-196-hub.github.io/mini-calculator/
+
 ![image](https://github.com/chen-196-hub/mini-calculator/blob/917027316f67ef3638932b81cb58a084b1c5f7c1/image.png)
 
 
